@@ -1,0 +1,43 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Times New Roman, Times, serif;
+}
+
+h2{
+    text-align: center;
+    color:#9495a5;
+    margin-top: 20px;
+
+}
+
+h3{
+   text-align: center;
+   position: relative;
+   top: 880px;
+   color: #9495a5;
+   font-size: 22px;
+}
+
+
+body {
+    background-color: #373538
+}
+
+
+.menu{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -90px -300px;
+}
+
+.menu a{
+    color:#9495a5;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 50px;
+    font-size: 30px;
+}
